@@ -1,5 +1,4 @@
 # Java_Socket_Programming_Based_Chat_System
-# Java Socket Programming Based Chat System
 
 ## Project Description
 Java Socket Programming Based Chat System is a TCP-based client–server application developed using Java Socket programming.  
